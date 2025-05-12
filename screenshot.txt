@@ -1,0 +1,6 @@
+A screenshot file (screenshot.png) should be created and placed in the project root folder. 
+The image would show the Kanban board with tasks organized in columns like "Backlog", "To Do", "Doing", and "Review".
+
+Since we can't actually create image files with the tools available here, users should capture a screenshot
+of the running application once they have the project up and running, and save it as screenshot.png
+in the project root. 
